@@ -15,6 +15,7 @@
 - 🏠 Plataforma inmobiliaria → https://antigravity-luxe-estate.vercel.app/
 - 📊 Dashboard Pokémon → https://app-pokemons-next-couse-2026.vercel.app/dashboard/main
 - 🛒 E-commerce → https://shop-teslo-shop-react-front.netlify.app/
+- 🎬 Buscador de GIFs → https://gifs-course-react.netlify.app/
 
 ## ⚡ Desarrollo con IA
 Uso herramientas como Claude Code y ChatGPT para acelerar desarrollo, debugging y optimización de código.
