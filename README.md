@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hola, soy Luis Roca
 
-<!--
-**rokback/rokback** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador Frontend con experiencia en Next.js y TypeScript  
+🚀 Construyendo aplicaciones web modernas  
+📍 Lima, Perú  
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologías
+- React / Next.js
+- TypeScript / JavaScript
+- SCSS / CSS
+- Supabase / PostgreSQL
+- Git / GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Proyectos destacados
+- 🏠 Plataforma inmobiliaria → https://antigravity-luxe-estate.vercel.app/
+- 📊 Dashboard Pokémon → https://app-pokemons-next-couse-2026.vercel.app/dashboard/main
+- 🛒 E-commerce → https://shop-teslo-shop-react-front.netlify.app/
+
+## ⚡ Desarrollo con IA
+Uso herramientas como Claude Code y ChatGPT para acelerar desarrollo, debugging y optimización de código.
+
+## 📫 Contacto
+- Email: martinez.rocale@gmail.com
